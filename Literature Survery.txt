@@ -1,0 +1,58 @@
+ LITERATURE SURVEY
+ Real-Time River Water Quality Monitoring and Control System
+Project Name IOT Based Real-Time River Water Quality
+Monitoring and Control System
+1. Water quality monitoring system based on Internet of
+Things
+Author: Chengcheng Zhang, Jian Wu, Jiancheng Liu
+Publication: IEEE 2020
+Chengcheng et al presents a solution that integrates the
+design of STM32 single- chip microcomputer, sensors, WiFi
+wireless transmission and remote water quality management
+system. It monitors water quality turbidity, pH value,
+temperature and uploads the data to the management center
+through wireless communication.
+2. IoT Based Real-time River Water Quality Monitoring
+System
+Author: Mohammad Salah Uddin Chowdurya, Talha Bin
+Emran b, Subhasish Ghosha , Abhijit Pathak a, Mohd. Manjur
+Alama, Nurul Absar a, Karl Andersson c, Mohammad Shahadat
+Hossain d
+Publication: Science Direct 2019
+Mohammad et al proposed a manual method for sensorbased water quality monitoring system with high frequency,
+high mobility, and low power. Here the data collected at the site
+can be displayed in a visual format on a server PC with the help
+of Spark streaming analysis through Spark MLlib, Deep
+learning neural network models, Belief Rule Based (BRB)
+system and is also compared with standard value.
+3. Efficient Cloud Based Real Time Water Quality Monitoring
+System Using Internet Of Things
+Author: M.Usha Rani, Dr.R.Alageswaran, Sathish Kumar A
+Publication: JASC: Journal of Applied Science and
+Computations(2018)
+M.Usha Rani et al proposes water sampling system with
+required sensor. Whenever the water level in the lakes or ponds
+reaches the lower/upper level it is identified and notification is
+sent to the administrator. It can also predict overflow and water
+scarcity in future from the past results. The parameters like PH,
+calcium, sulphate and nitrate ions that is present in the water is
+also identified.
+4. Water Quality Monitoring System Using IOT
+Author: Dr. Nageswara Rao Moparthi, Ch. Mukesh, Dr. P.
+Vidya Sagar
+Publication: IEEE 2018
+Dr. Nageswara Rao Moparthi et al implements Water
+Quality Monitoring System for municipal water tanks and
+drinking water reservoirs using an Arduino board and GSM
+module. This module can be easily implemented when a
+wireless oxygen sensor is used.
+5. Real-Time Water Quality Monitoring System
+Author: Jyotirmaya Ijaradar1, Subhasish- Chatterjee
+Publication:International Research Journal of Engineering and
+Technology (IRJET) (2018)
+Jyotirmaya et al proposed real-time water quality
+monitoring system for water health at residential places. It
+measure various chemical and physical properties of water like
+pH, temperature and particle density of water using sensors and
+send the data to cloud and trigger an alarm when discrepancies
+are found in water quality.
